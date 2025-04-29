@@ -1,0 +1,19 @@
+1.Map.of creats the immutable map.
+2.Comparator basically compares 2 objects and sort them according to our preference.
+3.int branchCompare = s1.getBranch().compareTo(s2.getBranch());
+  This compares the branch names of two students alphabetically.
+
+  compareTo() returns:
+
+  A negative number if s1's branch comes before s2's
+
+  0 if both are the same
+
+  A positive number if s1's branch comes after s2's
+
+4.int grade1 = gradeOrder.getOrDefault(s1.getGrade(), 0) =
+Look up the numeric value for s1's grade in the gradeOrder map.
+If the grade is not found, just use 0."
+
+
+

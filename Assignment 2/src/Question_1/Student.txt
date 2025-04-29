@@ -1,0 +1,2 @@
+1.Setters are not set because if we do not set setters the objects get immutable i.e. it cannot be changed.
+2.We have to override tostring() to get our desired results otherwise it would have given Classname@hexcode.
