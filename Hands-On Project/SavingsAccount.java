@@ -1,10 +1,7 @@
 public class SavingsAccount extends BankAccount {
 
-//    private double interestRate;
-
     public SavingsAccount(String accountNumber, String accountHolderName) {
-        super(accountNumber, accountHolderName); // Constructor chaining to superclass
-//        this.interestRate = interestRate;
+        super(accountNumber, accountHolderName);
     }
 
     @Override

@@ -1,10 +1,7 @@
 public class CheckingAccount extends BankAccount {
 
-//    private double overdraftLimit;
-
     public CheckingAccount(String accountNumber, String accountHolderName) {
         super(accountNumber, accountHolderName);
-//        this.overdraftLimit = overdraftLimit;
     }
 
     @Override
@@ -15,7 +12,7 @@ public class CheckingAccount extends BankAccount {
 
     @Override
     public void withdraw(double amount) {
-        if (balance  >= amount) {
+        if (balance >= amount) {
             balance -= amount;
             System.out.println("Withdrew $" + amount + " from checking account.");
         } else {
