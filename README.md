@@ -18,7 +18,7 @@ Java_Core_Vena_Assignments/ <br>
 │   │   └── Worksheet_Q1_to_Q10.java<br>
 │   └── Assignment_2_Collections/<br>
 │       └── Collection_Worksheet.java<br>
-│
+│<br>
 ├── HandsOn_Projects/<br>
 │   ├── Banking_System_Project/<br>
 │   │   └── *.java<br>
