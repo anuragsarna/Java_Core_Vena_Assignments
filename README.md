@@ -1,8 +1,5 @@
 **💻 Java Core - Vena Assignments** <br>
 
-***Welcome to the repository for Java Core Assignments as part of the Vena Training Program.
-This repo includes hands-on projects and worksheets designed to reinforce core Java concepts.***
-
 📘 Assignment 1 – Worksheet covering 10 foundational Java questions
 (Includes object-oriented concepts, data types, control structures, and more) <br>
 
