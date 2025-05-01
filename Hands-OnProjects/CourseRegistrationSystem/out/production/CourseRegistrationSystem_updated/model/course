@@ -1,0 +1,8 @@
+1.We use linked list instead of list or arraylist because :-
+                    1.Not efficient for removal from front as it takes O(n) time cmplexity and linked list takes O(1).
+                    2.Built in queue methods like poll,add,offer.
+                    3.It is designed for FIFO.
+
+poll() - removal of first element
+peek() - seeing the head of the queue
+offer() - adding a element in the queue

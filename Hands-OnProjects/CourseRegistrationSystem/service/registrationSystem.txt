@@ -1,0 +1,5 @@
+1.if (course == null) return new ArrayList<>() = returns an empty arraylist for preventing
+null pointer exception.
+
+2.var c - Java automatically infers the type of c from the expression on the right.
+(jo bhi uske right me hoga automatically usko le lega c me)
