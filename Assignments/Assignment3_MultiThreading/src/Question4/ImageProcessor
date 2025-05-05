@@ -1,0 +1,10 @@
+1.We use callable function to run our executor as the callable functions returns a result.
+
+2.the threads are working concurrently (i.e., in parallel),
+but the results are printed in ascending order because you're using Future.get().
+
+3.Future.get() ensures the results are returned in the order the tasks were submitted,
+not in the order of completion.
+
+The for loop iterating over futures retrieves the results in the correct sequence (ascending from Image 1 to Image 50),
+despite the concurrent execution.

@@ -1,0 +1,4 @@
+1.LinkedBlockingQueue = It implements the BlockingQueue interface and is used for handling a queue
+where threads can safely put and take elements.
+
+2.
