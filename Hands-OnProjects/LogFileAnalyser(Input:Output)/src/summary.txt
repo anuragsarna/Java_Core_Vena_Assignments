@@ -1,0 +1,5 @@
+Log Summary Report
+------------------
+Total log entries: 50
+ERROR entries: 10 (20.00%)
+WARNING entries: 8 (16.00%)
