@@ -1,0 +1,7 @@
+Java is a high-level, object-oriented programming language developed by Sun Microsystems in 1995
+and now maintained by Oracle Corporation. Known for its platform independence through the
+Java Virtual Machine (JVM), Java enables developers to write code once and run it anywhere.
+It is widely used for building enterprise applications, Android apps, web applications, and software tools.
+Java’s strong memory management, robust libraries, and focus on security make it a
+reliable choice for scalable and cross-platform development.
+

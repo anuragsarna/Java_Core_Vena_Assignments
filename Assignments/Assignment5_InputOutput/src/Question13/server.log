@@ -1,0 +1,5 @@
+INFO: Server started successfully.
+INFO: Listening on port 8080.
+ERROR: Unable to connect to database.
+INFO: Server is running smoothly.
+ERROR: Timeout occurred during request processing.
